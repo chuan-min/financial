@@ -1,0 +1,41 @@
+@charset "UTF-8";
+h2{
+    width: 80%;
+    text-align: center;
+}
+hr{
+    color:red;
+}
+div{
+    border: cadetblue 1px solid;
+}
+
+.banner{
+    padding: 0 20px;
+    text-align: center;
+    background-image: url("../img/banner.jpg");
+}
+.footer{
+    padding: 0 20px;
+    text-align: center;
+    background-image: url("../img/banner.jpg");
+}
+.bottom{
+    horiz-align: center;
+    background-image: url("../img/banner.jpg");
+    width: 1200px;
+    height: 200px;
+}
+.form{
+    width: 1200px;
+    height: 180px;
+    top:220px;
+}
+table{
+    text-align: center;
+    align-content: center;
+    row-span: inherit;
+}
+tr{
+    height: 40px;
+}
